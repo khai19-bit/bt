@@ -1,0 +1,10 @@
+.modal-body {
+    width: 100%;
+}
+.modal-body .content {
+    width: 71%;
+    height: 95%;
+}
+.content p {
+    height: 73%;
+}
